@@ -1,0 +1,47 @@
+PUBLIC RECORDS REQUEST
+Virginia State Corporation Commission - Bureau of Insurance
+
+Date: April 2, 2026
+
+To:
+State Corporation Commission
+Bureau of Insurance
+P.O. Box 1197
+Richmond, VA 23218
+Email: sccinfo@scc.virginia.gov
+Phone: (804) 371-9141 or (800) 552-7945 (toll-free)
+
+From:
+JKL Holdings LLC
+Email: admin@jklholdings.com
+
+RE: Request for Public Records Pursuant to Virginia Freedom of Information Act, Virginia Code Section 2.2-3700 et seq.
+
+Dear Records Officer:
+
+Pursuant to the Virginia Freedom of Information Act (VFOIA), Virginia Code Section 2.2-3700 et seq., I am requesting access to and a copy of the following records maintained by the State Corporation Commission, Bureau of Insurance:
+
+A complete list of all currently licensed individual insurance producers/agents in the Commonwealth of Virginia, including the following data fields for each licensee:
+
+  1. National Producer Number (NPN)
+  2. Full legal name
+  3. Business email address
+  4. Business phone number
+  5. Business mailing address
+  6. License type(s)
+  7. License status
+  8. Original license date
+  9. Appointed company information (all current company appointments)
+
+I request that these records be provided in CSV or Microsoft Excel electronic format, delivered via email to admin@jklholdings.com.
+
+I understand that there may be reasonable fees associated with this request. JKL Holdings LLC is willing to pay reasonable charges for the search, retrieval, and copying of the requested records. If the estimated cost will exceed $100.00, please notify me in advance for approval before proceeding.
+
+Note: I am aware that the Virginia Supreme Court has held that the State Corporation Commission may have a distinct status under VFOIA. If VFOIA does not apply to this request, I respectfully ask that you treat this as a general public records request and provide the requested data to the extent it is available for public disclosure under the SCC's own policies and procedures.
+
+Thank you for your prompt attention to this request.
+
+Sincerely,
+
+JKL Holdings LLC
+admin@jklholdings.com

@@ -1,0 +1,48 @@
+OPEN PUBLIC RECORDS ACT (OPRA) REQUEST
+New Jersey Department of Banking and Insurance
+
+Date: April 2, 2026
+
+To:
+New Jersey Department of Banking and Insurance
+OPRA Records Custodian
+20 West State Street
+P.O. Box 325
+Trenton, NJ 08625-0325
+Email: oprarecords@dobi.nj.gov
+Phone: (609) 292-5360
+
+From:
+JKL Holdings LLC
+Email: admin@jklholdings.com
+
+RE: Open Public Records Act Request Pursuant to N.J.S.A. 47:1A-1 et seq.
+
+Dear Records Custodian:
+
+Pursuant to the New Jersey Open Public Records Act (OPRA), N.J.S.A. 47:1A-1 et seq., I am requesting access to and a copy of the following records maintained by the New Jersey Department of Banking and Insurance:
+
+A complete list of all currently licensed individual insurance producers/agents in the State of New Jersey, including the following data fields for each licensee:
+
+  1. National Producer Number (NPN)
+  2. Full legal name
+  3. Business email address
+  4. Business phone number
+  5. Business mailing address
+  6. License type(s)
+  7. License status
+  8. Original license date
+  9. Appointed company information (all current company appointments)
+
+I request that these records be provided in CSV or Microsoft Excel electronic format, delivered via email to admin@jklholdings.com.
+
+I understand that there may be reasonable fees associated with this request. JKL Holdings LLC is willing to pay reasonable charges for the search, retrieval, and copying of the requested records. If the estimated cost will exceed $100.00, please notify me in advance for approval before proceeding.
+
+Under OPRA, a custodian of a government record must grant or deny access to a record within seven business days of receiving the request. If any portion of this request is denied, please provide a written explanation of the specific legal basis for the denial as required under N.J.S.A. 47:1A-5.
+
+Thank you for your prompt attention to this request.
+
+Sincerely,
+
+JKL Holdings LLC
+admin@jklholdings.com
